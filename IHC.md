@@ -15,7 +15,9 @@ Ingredients: serum (i.e NDS, triton X)
 ## 2. Primary antibody
 The antibodies are in the white freezer. Write down from which animal is the primary and make sure we have a compatible secondary. 
 
-- In an eppendorf, pour 1.5mL of blocking solution and 30 uL (or 50, the idea is having a 3-5% preparation) of the primary antibody.
+- In an eppendorf tube, pour 1.5mL of blocking solution and 30 uL (or 50, the idea is having a 3-5% preparation) of the primary antibody.
+- After washing 3 times the blocking solution, pour the primary antibody in the retina, take them to the cold room and wait 5 days. 
 
 ## 3. Secondary antibody
+Anti primary antibody animal. 
 **Use the black eppendorf!!**
