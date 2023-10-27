@@ -1,4 +1,7 @@
 # Immunohistochemistry protocol
+
+**Summary:**
+<img src="images/IHC.jfif" alt="Image Alt Text" width="400" height="400">
 ## 0. Fix with PFA
 ## 1. Blocking solution
 Ingredients: serum (i.e NDS, triton X)
@@ -7,10 +10,6 @@ Ingredients: serum (i.e NDS, triton X)
 - Pour 1-2 mL of blocking solution 
 - Shake 20min
 - Wash 3 times total 
-
-    <img src="images/IHC.jfif" alt="Image Alt Text" width="200" height="200">
-
-
 
 ## 2. Primary antibody
 The antibodies are in the white freezer. Write down from which animal is the primary and make sure we have a compatible secondary. 
