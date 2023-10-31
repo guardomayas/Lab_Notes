@@ -1,6 +1,7 @@
 # Immunohistochemistry protocol
 
 **Summary:**
+
 <img src="images/IHC.jfif" alt="Image Alt Text" width="400" height="400">
 ## 0. Fix with PFA
 ## 1. Blocking solution
