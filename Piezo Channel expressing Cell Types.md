@@ -19,7 +19,8 @@ Data from: [single cell portal](https://singlecell.broadinstitute.org/single_cel
 - 31_M2: no match
 - 8_novel: no match
 
-<img src="images/piezo1.png" alt="Image Alt Text">
+<img src="images/piezo1.png" alt="Image Alt Text1">
+
 
 ## To do: 
 - [ ] look for papers with imaging/staining
