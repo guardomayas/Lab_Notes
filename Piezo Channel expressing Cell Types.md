@@ -3,8 +3,8 @@ Data from: [single cell portal](https://singlecell.broadinstitute.org/single_cel
 
 ## Piezo 2 transcriptomic clusters: functional type
 - 24_novel: **OODS T**
-- 30_novel: **ON tr SmRF**
-- 23_W3D2: ** **
+- *Focus:* 30_novel: **ON tr SmRF**
+- *Focus:* 23_W3D2: **ON tr MeRF??**
 - 34_novel: ** **
 - 2_W3D1.2: **UHD**
 - 19_novel: ** **
@@ -13,7 +13,19 @@ Data from: [single cell portal](https://singlecell.broadinstitute.org/single_cel
 
 ## Piezo 1 transcriptomic clusters: functional type
 
-- 7_novel
-- 22_M5
-- 14_ooDS_Cck
+- 7_novel: we don't have it
+- 22_M5: pixON
+- 14_ooDS_Cck: ON Delayed
+- 31_M2: no match
+- 8_novel: no match
+
 <img src="images/piezo1.png" alt="Image Alt Text">
+
+## To do: 
+- [ ] look for papers with imaging/staining
+- IHC antibody
+- What stimulus
+
+## Issues:
+- Yoda 1 is specific to piezo 1, Not 2
+
