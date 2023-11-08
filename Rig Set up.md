@@ -10,8 +10,19 @@
 ## 2. Microscope
 - Open lin lab
 - Turn on lamp
+- Open symphony
+- Focus bottom of the dish at 10x, then at 60x. 
+    - Set Z at 0 
+- Focus condenser
+    - Set C at 0 
+- Allignment cross: focused at the bottom of the dish!
+    - Change filter (NDF) if neeeded
 ## 3. Electrode 
-- Set home in & home out positions
+- Base position: 
+    - Set 10x objective at 7000
+    - Put the electrode and find it. Set everything at 0- 
+    - Go to 3000 on Z and focus the electrode. Turn into *approach mode* and go to 0 in Z. Set home out in that position. 
+
 ## 4. Software
 - Lin lab: electrodes
 - Multiclamp: amplifier
