@@ -17,11 +17,12 @@
     - Set C at 0 
 - Allignment cross: focused at the bottom of the dish!
     - Change filter (NDF) if neeeded
+    - In rig B: the allignment cross is of around -40 to -50 in the condenser. If you focus it there, is going to look sharper. 
 ## 3. Electrode 
 - Base position: 
-    - Set 10x objective at 7000
+    - Set 60x objective at 7000
     - Put the electrode and find it. Set everything at 0- 
-    - Go to 3000 on Z and focus the electrode. Turn into *approach mode* and go to 0 in Z. Set home out in that position. 
+    - Go to 3000 on Z and focus the electrode. Set that as home in. Turn into *approach mode* and go to 0 in Z. Set home out in that position. 
 
 ## 4. Software
 - Lin lab: electrodes
