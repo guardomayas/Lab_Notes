@@ -4,7 +4,7 @@ If it's not working. Run the startup file and make sure it's working and connect
 
 It should look like this: 
 
-<img src="images/dj.conn.png" alt="Image Alt Text">
+<img src="../images/dj.conn.png" alt="Image Alt Text">
 
 # Curation for each cell 
 1. `DataGrouper`: launching the curator and looking the datasets. 
