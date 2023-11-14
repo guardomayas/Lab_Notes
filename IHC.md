@@ -3,8 +3,9 @@
 **Summary:**
 
 <img src="images/IHC.jfif" alt="Image Alt Text" width="400" height="400">
+
 ## 0. Fix with PFA
-## 1. Blocking solution
+# 1. Blocking solution
 Ingredients: serum (i.e NDS, triton X)
 - Pour 2 alliquots of NDS in a 14mL falcon and fill the rest of it with tritonX.
 - Remove PBS from the retina
