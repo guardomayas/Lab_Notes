@@ -2,7 +2,8 @@
 
 **Summary:**
 
-<img src="images/IHC.jfif" alt="Image Alt Text" width="400" height="400">
+<img src="../images/IHC.jfif" alt="Image Alt Text" width="400" height="450">
+
 
 ## 0. Fix with PFA
 **CAUTION** PFA tools and disposaluse different containers. 
