@@ -19,8 +19,7 @@
 
 7. Dry the lines with the gas gun
     - Put a lens cleaning tissue to cover the objectives before blowing.
-
- -  **Be sure the lines are dry!**
+    -  **Be sure the lines are dry!**
 
 8. Clean with ethanol the dissection table and scope. 
 
