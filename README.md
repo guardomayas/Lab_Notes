@@ -8,4 +8,7 @@
 - [Ephys data curation and preliminary analysis](Protocols/Data_Analysis.md)
 ## General procedures:
 - [Immunohistochemistry](Protocols/IHC.md)
+
+## Solutions (and some problems)
 - [Allicuots](Protocols/Yoda1_allicuotes.md)
+- [100% Normal Donkey Serum](Protocols/NDS.md)
