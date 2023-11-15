@@ -1,6 +1,6 @@
 # Preparing 100% Normal Donkey Serum
 
-- [] **Ingredientes:** 017 - 000 - 121 NDS Powder Jackson labs
+- [ ] **Ingredients:** 017 - 000 - 121 NDS Powder Jackson labs
     - In the fridge, glass with green cap. 
 
 1. Dissolve into 10 mL of **mili Q water** (centrifuge if not clear)
