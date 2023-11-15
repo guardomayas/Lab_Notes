@@ -5,7 +5,7 @@
 - [Rig Set Up](Protocols/Rig_Set_up.md)
 - [Rig Cleaning](Protocols/Rig_Clean_Up.md)
 ## Data Analysis
-- [Ephys data curation and preliminary analysis](Protocols/Data_Analysis.md)
+- [Ephys data curation and preliminary analysis](Protocols/Ephys_Data.md)
 ## General procedures:
 - [Immunohistochemistry](Protocols/IHC.md)
 
