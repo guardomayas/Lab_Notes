@@ -1,8 +1,10 @@
 # Rig Set up
-Raph made a fantastic and detailed guide that can be found and downloaded [here](Protocols/Ephys_Data.md)
+Raph made a fantastic and detailed guide that can be found and downloaded [here](Protocols/Rig_Set_Up.pdf)
 ## 0. Turn on the rig
 Begin with turning on the four power strips. 
 Turn on the monitors if they aren’t on automatically.
+
+<img src="../images/buttons.png" alt="Image Alt Text"> 
 
 ## 1. Perfusion
 **Grab:** ames bottle, bubblers (x2) and their adaptors, tap with 4 holes, dissection bottle. 
