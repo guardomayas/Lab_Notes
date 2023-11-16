@@ -1,7 +1,7 @@
 # Rig Set up
 The purpose of these instructions is to be a fast checklist of everything that needs to be done to set up the rig before dissection. 
 
-- Raph made a fantastic and detailed guide that can be found and downloaded [here](Protocols/RigSetUp.pdf) for a more comprehensive explanation. 
+- Raph made a fantastic and detailed guide that can be found and downloaded [here](images/RigSetUp.pdf) for a more comprehensive explanation. 
 
 
 ## 0. Turn on the rig
