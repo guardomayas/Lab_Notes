@@ -1,5 +1,9 @@
 # Rig Set up
-Raph made a fantastic and detailed guide that can be found and downloaded [here](Protocols/Rig_Set_Up.pdf)
+The purpose of these instructions is to be a fast checklist of everything that needs to be done to set up the rig before dissection. 
+
+- Raph made a fantastic and detailed guide that can be found and downloaded [here](Protocols/RigSetUp.pdf) for a more comprehensive explanation. 
+
+
 ## 0. Turn on the rig
 Begin with turning on the four power strips. 
 Turn on the monitors if they aren’t on automatically.
@@ -25,16 +29,21 @@ Turn on the monitors if they aren’t on automatically.
     - Turn the knob in the lower end of the scope until you see the condenser aperture. 
     - Switch from objective to condenser
     - Focus in **Z** and Set **C** at 0 
-- Allignment cross: focused at the bottom of the dish!
+- *Allignment cross:* focused at the bottom of the dish!
     - In symphony, open the Allignment cross stimuli
     - Turn off the lamp
-    - Change filter (NDF) to 0 or 1, if neeeded
-    - *In rig B:* the allignment cross is of around -40 to -50 in the condenser. If you focus it there, is going to look sharper. 
+    - Change filter (NDF) to 0 or 1, if needed
+        
+             *In rig B:* allignment cross is of around -40 to -50 uM in the condenser. If you focus it there, is going to look sharper. 
 ## 3. Electrode 
 - Base position: 
-    - Set 60x objective at 7000
-    - Put the electrode and find it. Set everything at 0- 
-    - Go to 3000 on Z and focus the electrode. Set that as home in. Turn into *approach mode* and go to 0 in **Z**. Set  that position as **home out**. 
+    - Set 10x objective at 7000 uM
+    - Put the electrode in and find it.
+    - Set everything to 0
+    - Change the objective to 60x
+    - Focus the electrode and Set everything to 0 again. 
+    - Go to 3000 on Z and focus the electrode. Set that as home in. Turn into *approach mode* and go to 0 or positive in **Z**. Set  that position as **home out**. 
+
 
 ## 4. Software
 - Lin lab: electrodes
