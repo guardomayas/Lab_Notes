@@ -1,23 +1,26 @@
 # Rig Set up
-The purpose of these instructions is to be a fast checklist of everything that needs to be done to set up the rig before dissection. 
+### The purpose of these instructions is to be a fast checklist to set up the rig before dissection. 
 
-- Raph made a fantastic and detailed guide that can be found and downloaded [here](../images/RigSetUp.pdf)  for a more comprehensive explanation.
-
+- Raph made a **fantastic and detailed** guide that can be found and downloaded [here](../images/RigSetUp.pdf)  for a more comprehensive explanation.
 
 
 ## 0. Turn on the rig
 Begin with turning on the four power strips. 
 Turn on the monitors if they aren’t on automatically.
 
+<img src="../images/buttons.png"> 
+
 ## 1. Perfusion
 **Grab:** ames bottle, bubblers (x2) and their adaptors, tap with 4 holes, dissection bottle. 
 - Turn on heaters and fill them with tap water (2L)
 - Ames 2L bottle:
-    - Take out 250cc for dissection
+    - Take out 250cc for dissection bottle.
     - Set up lines:
         - Insert **in line** in Ames bottle
         - Run Ames into the bath for 2-3min
         - Insert **out line** in Ames bottle
+
+
 ## 2. Microscope
 - Open lin lab
 - Turn on lamp
