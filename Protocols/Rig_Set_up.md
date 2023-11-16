@@ -47,16 +47,10 @@ Turn on the monitors if they aren’t on automatically.
     - Go to 3000 on Z and focus the electrode. Set that as home in. Turn into *approach mode* and go to 0 or positive in **Z**. Set  that position as **home out**. 
 
 
-## 4. Software
-- Lin lab: electrodes
-- Multiclamp: amplifier
-    - Reset default
-    - Standard configuration
-    - Check system noise 
-        - Should be less than 10. 
-- Symphony: allignment cross.
-    - Focus bottom of the dish at 10x, then at 60x, then do the allignment cross. 
-    - Focus condenser. 
+## 4. Multiclamp
+- Reset default
+- Standard configuration
+- Check system noise: Should be less than **10**.
 
 
 ### Caution: Before dissecting: check the perfussion. It's always the first and most fatal source of errors. 
