@@ -13,12 +13,18 @@ Turn on the monitors if they aren’t on automatically.
 ## 1. Perfusion
 **Grab:** ames bottle, bubblers (x2) and their adaptors, tap with 4 holes, dissection bottle. 
 - Turn on heaters and fill them with tap water (2L)
+- Insert and connect perfussion lines: 
+
+    <img src="../images/perfussion.png" width="300" height="230"> 
 - Ames 2L bottle:
     - Take out 250cc for dissection bottle.
     - Set up lines:
         - Insert **in line** in Ames bottle
         - Run Ames into the bath for 2-3min
         - Insert **out line** in Ames bottle
+
+    <img src="../images/Ames.png"  width="200" height="230"> 
+
 
 
 ## 2. Microscope
