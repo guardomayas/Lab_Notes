@@ -1,5 +1,6 @@
 # Checklist before recording
 
+0. Mark the mouse as deceased on AI
 ## Coordinates and condenser focus
 1. Inspect the whole retina on 10x
 2. Find the ventral (biggest) cut and go up
