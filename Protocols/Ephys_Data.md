@@ -1,11 +1,13 @@
 # E-phys Data Curation
 
+0. Make sure you are connected to the VPN
 ## Curation for each cell 
 1. In MatLab's command window run `DataGrouper`. 
 - With it we launch the curator and look at existing datasets. 
 2. Curator mode 
-3. Search by Filename
-    - Add condition with attribute. *lookup what this really means*
+3. Select Filename
+4. Add condition with attribute. *lookup what this really means*
+5. Type the filename
 7. Browser 
 8. To Curator 
 9. Filter
@@ -19,8 +21,11 @@
 4. 
 
 ## Non Curator mode - prelim Analysis
-Is looking for datasets
+Analysis is done at the **dataset** level
+
 Choose analysis: 
 - Select Database and not command line 
-- Replace all 
+- Replace all
+- Run the Query again before running the analysis.  
+- Look for Saved results
 - Lookup plotter code 
