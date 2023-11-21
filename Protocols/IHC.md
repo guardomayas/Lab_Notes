@@ -20,7 +20,7 @@ Over night at room temperature (and shaking?) with:
     
     *or*
 - 3% BSA + 0.5% triton X
-- Wash with PBS 20min 
+
 
 ## 3. Primary antibody
 The antibodies are in the white freezer. Write down from which animal is the primary and make sure there is a compatible secondary. 
