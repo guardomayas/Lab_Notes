@@ -1,6 +1,7 @@
 # E-phys Data Curation
 
 0. Make sure you are connected to the VPN
+1. `Git pull` your DJ_schwartzlab repository.  
 ## Curation for each cell 
 1. In MatLab's command window run `DataGrouper`. 
 - With it we launch the curator and look at existing datasets. 

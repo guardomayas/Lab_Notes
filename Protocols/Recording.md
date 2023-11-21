@@ -17,5 +17,5 @@
 9. Gently tear the inner limiting membrane. 
 
 ## Cell Attached Recording 
-9. In Symphony, play lightstep. 
+10. In Symphony, play lightstep. 
 
