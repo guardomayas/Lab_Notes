@@ -14,6 +14,8 @@
 ## Tearing the inner limiting membrane
 8. Put the electrode in, set pipette offset, lock in positive pressure (~2)
 
+9. Gently tear the inner limiting membrane. 
+
 ## Cell Attached Recording 
 9. In Symphony, play lightstep. 
 
