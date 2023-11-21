@@ -1,7 +1,7 @@
 ﻿# Lab Protocols
  This repositories contains the lab notes for several procedures at Schwartz lab. It's intended to serve as a set of instructions and checklists of some of the experiments I have watched in the past 7 weeks. 
 
- Please feel free to give me comments, suggest editions or add to the protocols 😄 :smile:. 
+ Please feel free to give me comments, suggest editions or add to the protocols :smile:. 
 
 ## Rig Related
 - [Rig Set Up](Protocols/Rig_Set_up.md)
