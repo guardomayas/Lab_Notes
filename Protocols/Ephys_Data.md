@@ -7,7 +7,7 @@
 - With it we launch the curator and look at existing datasets. 
 2. Curator mode 
 3. Select Filename
-4. Add condition with attribute. *lookup what this really means*
+4. Add condition with attribute. 
 5. Type the filename
 7. Browser 
 8. To Curator 
