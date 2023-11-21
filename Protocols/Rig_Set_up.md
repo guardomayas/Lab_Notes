@@ -67,7 +67,7 @@ Turn on the monitors if they aren’t on automatically.
 
             In rig A, the difference between the 10x and 60 objective is around 1200 uM (i.e 3000 uM in 60x will take you to 4200 in 10x), in rig B it is around 2000 uM 
    - Put the electrode in again and focus it. Set electrode coordinates to 0 again. 
-    - Go to 3000 on Z and focus the electrode. Set that as **home in**. Turn into *approach mode* and go to 0 or positive in **Z**. Set  that position as **home out**. 
+    - Go to 3000 on Z and focus the electrode. Set that as **home in**. Turn into *approach mode* and go to positive in **Z**. Set  that position as **home out**. Make sure that the electrode can safely swing in and out. 
 
 
 ## 4. Multiclamp
